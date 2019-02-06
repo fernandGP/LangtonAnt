@@ -1,0 +1,22 @@
+# Compiled source
+##################################
+*.o
+*.exe
+.qmake.stash
+
+# QT stuff
+##################################
+*.pro.user
+*.pro
+Makefile
+Makefile.Debug
+Makefile.Release
+
+
+
+# Packages
+##################################
+*.tar
+*.zip
+*.jar
+

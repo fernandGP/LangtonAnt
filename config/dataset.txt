@@ -1,0 +1,5 @@
+40 40 1
+4 1 2 3 4
+
+#El fichero ofrece la posibilidad (de momento) de especificar las
+#dimensiones de la malla y el modo de inicialización
